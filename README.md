@@ -37,5 +37,18 @@ The main focus of this project was **frontend design**, ensuring a clean, modern
 
 ---
 
-## 📁 Folder Structure
 
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/FakharQureshi/ShaheenHotelGilgit.git
+
+
+---
+
+for instalation run = npm install
+and for test the project run = npm run dev...
