@@ -1,8 +1,41 @@
-# React + Vite
+# Shaheen Hotel Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Shaheen Hotel**, a modern hotel booking website designed to provide users with a smooth and visually appealing experience.  
 
-Currently, two official plugins are available:
+This project focuses on a **beautiful frontend** built with **React.js + Vite**, while the backend is minimal and used for basic data handling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🏨 Project Overview
+
+Shaheen Hotel allows users to:
+
+- Browse hotel rooms and services
+- View images and details of rooms
+- Make bookings (basic backend support)
+- Enjoy a fully responsive and visually attractive interface
+
+The main focus of this project was **frontend design**, ensuring a clean, modern, and user-friendly experience.
+
+---
+
+## 💻 Technology Stack
+
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Backend:** Node.js + Express (minimal setup)  
+- **Database:** MongoDB (optional / basic usage)  
+- **Styling:** Tailwind CSS for responsive and modern design  
+
+---
+
+## ✨ Features
+
+- Responsive hotel website  
+- Beautiful homepage with room highlights  
+- Image gallery and room details 
+- Fully mobile-friendly  
+
+---
+
+## 📁 Folder Structure
+
